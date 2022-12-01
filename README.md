@@ -1,1 +1,1 @@
-# Hybrid-Solar-Tracker
+# Hybrid Solar Tracker
