@@ -1,0 +1,20 @@
+Advantages and Disadvantages
+
+Advantages:
+
+I.	Load is continuously ON.
+II.	No visible fluctuations will occur while switching from solar power to AC supply or vice versa.
+III.	Error detection.
+IV.	Maximum Efficiency if solar panel is perpendicular to sun rays.
+V.	Real time feedback via ESP8266.
+VI.	No man power needed to monitor and control.
+VII.	The solar energy can be used as it is renewable energy resource.
+VIII.	This also saves money as there is no need to pay for energy used (excluding the initial setup cost).
+IX.	Helps in maximizing the solar energy absorption by continuously tracking the sun via Dual Axis Sun Tracker.
+
+Disadvantages:
+
+I.	Heating of Transformer Overtime due to continuous Operation.
+II.	Expensive One-time Cost.
+III.	Though solar energy can be utilized to maximum extent this may not be as effective alternative and cause problems in rainy season.
+IV.	Although solar energy can be saved to batteries, they are heavy and occupy more space and required to change time to time.
