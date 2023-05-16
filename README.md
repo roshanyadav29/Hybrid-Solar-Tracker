@@ -1,5 +1,7 @@
 # Hybrid Solar Converter with LDR Automation and IoT-based Automated Error Detection
 
+![Final Assembly](https://github.com/roshanyadav29/Hybrid-Solar-Tracker/assets/56498395/c3e48599-4b10-401e-9913-05f9d0af9a17)
+
 ## Description
 This project involves the development of a Hybrid Solar Converter system with sun-tracking, automated error detection, and seamless power source transition capabilities. It addresses challenges in solar power systems, ensuring efficient energy generation and reliable performance in various weather conditions.
 
